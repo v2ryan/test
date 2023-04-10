@@ -34,3 +34,4 @@ for index, link in enumerate(links):
     output_filename = os.path.join(output_dir, f'qr_code_{index}.png')
     generate_qr_code(link, output_filename)
     print(f'Generated QR code for {link} and saved as {output_filename}')
+# ewrewrwerwer
